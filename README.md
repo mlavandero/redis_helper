@@ -1,6 +1,8 @@
-# RedisHelper
+# RedisHelper (in development)
 
-TODO: Write a gem description
+This gem adds funciontality to ActiveRecords so that it may be easy to store information in a fast
+and accesible persistence database.  For this it relies on Redis.  It is meant for difficult and costly
+methods that can be cached for limited time.
 
 ## Installation
 
@@ -18,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+For now there is no usage information while it is still in development.
 
 ## Contributing
 
@@ -27,3 +29,5 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+Any extra information please contact me through my GitHub profile.

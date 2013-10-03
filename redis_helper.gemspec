@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = RedisHelper::VERSION
   spec.authors       = ["Mario Lavandero"]
   spec.email         = ["mario@mlavandero.org"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Helps persist information in a Redis Server}
+  spec.summary       = %q{A group of methods that are added to ActiveRecord to allow data to be stored in a Redis Database for certain periods of time.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
